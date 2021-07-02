@@ -1,0 +1,6 @@
+com/example/demo/Model/Root.class
+com/example/demo/controller/NbpController.class
+com/example/demo/BeanConfig.class
+com/example/demo/service/NbpService.class
+com/example/demo/WzrApplication.class
+com/example/demo/Model/Rate.class
